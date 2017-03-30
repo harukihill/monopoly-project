@@ -1,2 +1,2 @@
 # monopoly-project
-Code for Monopoly Project
+Python Code for Monopoly Project
